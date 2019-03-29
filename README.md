@@ -1,1 +1,1 @@
-# Prediction-of-Cervical-Cancer-using-Chicken-Swarm-Optimization
+Chicken Swarm Optimization is a Nature based Optimization algorithm. We have used it for feature selection process and then using those features we have used Random Forests to do the predictions for our dataset.
